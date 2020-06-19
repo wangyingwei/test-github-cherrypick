@@ -6,3 +6,4 @@ master add 2
 master add 3
 
 dev add 4
+dev add 6
